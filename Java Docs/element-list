@@ -1,0 +1,6 @@
+com.car_api
+com.car_api.controller
+com.car_api.model
+com.car_api.repository
+com.car_api.services
+com.car_api.validation
